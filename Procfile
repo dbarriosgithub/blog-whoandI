@@ -1,0 +1,1 @@
+web: gunicorn whoblog.wsgi --log-file -
